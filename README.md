@@ -21,9 +21,9 @@ The dataset consists of landmarks collected by MediaPipe. Currently the collecte
 The model notebook is `cnn_model.ipynb`. A TFLite export can be found in the releases section of this repository. 
 
 ## Credits
-Lachlan Wright -> Helped develop autocorrect functionality that makes use of an NLP
-Lachlan Garrity -> Developed MR/AR interface
-Brendan Khavin -> Helped develop autocorrect functionality, text to speech, and assess model structure viabilities during the early phases.
+[Lachlan Wright](https://github.com/LachlanBWWright) -> Helped develop autocorrect functionality that makes use of an NLP<br/>
+[Lachlan Garrity](https://github.com/cazzerty) -> Developed MR/AR interface <br/>
+[Brendan Khavin](https://github.com/BrendanKhavin) -> Helped develop autocorrect functionality, text to speech, and assess model structure viabilities during the early phases. <br/>
 
 ### Original Github Organisation and Repos
 **Organisation**: [SIS Team 16](https://github.com/2023SIS-Team16) <br/>
